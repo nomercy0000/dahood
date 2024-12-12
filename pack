@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dekos-lgbty/dahood/main/starhook"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nomercy0000/micup/refs/heads/main/dahood"))()
+
+loadstring(game:HttpGet("https://diddysmansion.vip/lucidloader"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vcsk/RobloxScripts/main/DaHood/AnimationPack.lua"))()
